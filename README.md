@@ -8,6 +8,9 @@ https://github.com/weepee-org/openshift-example-project/blob/master/memsql-maste
 		
 		
 		
+reactive
+====================================================================
+https://spring.io/blog/2016/04/19/understanding-reactive-types
 		
 		
 		
